@@ -13,12 +13,12 @@ Developed a full-stack blog platform utilizing the MERN stack, featuring secure 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][React-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Express.js][Express.js]][Express-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
-* [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-* [![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
+[![React][React.js]][React-url]
+[![Node.js][Node.js]][Node-url]
+[![Express.js][Express.js]][Express-url]
+[![MongoDB][MongoDB]][MongoDB-url]
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
 
 
 
