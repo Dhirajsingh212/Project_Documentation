@@ -21,7 +21,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Zod][Zod]][Zod-url]
 * [![Sanity CMS][SanityCMS]][SanityCMS-url]
 * [![Stripe][Stripe]][Stripe-url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # Website View
 ### Login Page.
@@ -108,6 +108,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot from 2024-08-12 18-28-59](https://github.com/user-attachments/assets/4809dc49-d7d4-4623-92ab-f0d5357882e8)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Badges -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
