@@ -1,28 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
-
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -46,24 +23,81 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Stripe][Stripe]][Stripe-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Screenshorts
-### Login Page
+# Website View
+### Login Page.
 * User can login by providing their credentials (username and password).
 
 ![Screenshot from 2024-08-12 17-48-11](https://github.com/user-attachments/assets/70b41fb7-e8e4-4006-b143-8214d2df8428)
 
-### Signup Page
+### Signup Page.
 * New user can signup by providing their email,username & password.
 
 ![Screenshot from 2024-08-12 17-48-19](https://github.com/user-attachments/assets/889741b7-a92e-4037-a7e8-0690d26e4322)
 
-### Home Page
+### Home Page.
 
 ![Screenshot from 2024-08-12 17-50-37](https://github.com/user-attachments/assets/9b4b04af-5ea1-41ca-9962-65b0c6748e55)
 
 ![Screenshot from 2024-08-12 17-50-48](https://github.com/user-attachments/assets/8f4104db-449c-4e3c-84d3-18e4c7cd9f13)
 
-### 
+### Single Product Page.
+
+![Screenshot from 2024-08-12 17-50-54](https://github.com/user-attachments/assets/42cd57c0-9684-4adc-887c-45dd7d2f1df1)
+
+![Screenshot from 2024-08-12 17-50-59](https://github.com/user-attachments/assets/14b4a332-fd7d-4c69-9085-cc81bd405a23)
+
+### All Products Page.
+* With search and filter Functionalities.
+
+![Screenshot from 2024-08-12 17-51-04](https://github.com/user-attachments/assets/09fa68a2-4d14-4ec6-8bad-d2fd4a9cf720)
+
+### About Page.
+
+![Screenshot from 2024-08-12 17-51-11](https://github.com/user-attachments/assets/57522ec5-846a-4727-bb1a-fbd347a3e7ed)
+
+![Screenshot from 2024-08-12 17-51-15](https://github.com/user-attachments/assets/6e7b770d-488c-4d61-a20a-2794dc9555eb)
+
+### Cart Page.
+
+![Screenshot from 2024-08-12 17-51-28](https://github.com/user-attachments/assets/33617b3c-62d6-4a64-8b1d-0708c7bc8700)
+
+### Checkout process.
+
+![Screenshot from 2024-08-12 17-52-03](https://github.com/user-attachments/assets/802959a2-0438-45d6-866a-64f456a2ff11)
+
+![Screenshot from 2024-08-12 17-51-37](https://github.com/user-attachments/assets/dfdd92c6-1e2c-4989-bd6f-6d3c9056115d)
+
+![Screenshot from 2024-08-12 17-51-32](https://github.com/user-attachments/assets/cf8fc435-b353-43b1-bb19-82899183baeb)
+
+
+### Profile page.
+* User can change their profile picture.
+  
+![Screenshot from 2024-08-12 17-52-28](https://github.com/user-attachments/assets/af89e81c-8432-4ac6-8dc4-7e4ea6403c08)
+
+### My orders page.
+
+![Screenshot from 2024-08-12 17-52-41](https://github.com/user-attachments/assets/467622cb-2af6-43ea-8f7e-4579b5fb7c41)
+
+
+### Logout Popup.
+
+![Screenshot from 2024-08-12 17-52-54](https://github.com/user-attachments/assets/9c8b467d-6494-4879-b881-9649a9621406)
+
+
+
+# Admin Dashboard.
+* Admin dashboard to manage the delivery status of the orders.
+
+![Screenshot from 2024-08-12 18-24-54](https://github.com/user-attachments/assets/2ade8ba2-e0d6-415e-8946-6c3506946ee7)
+
+![Screenshot from 2024-08-12 18-24-51](https://github.com/user-attachments/assets/12a5b58b-0d30-4cb8-a44e-a7f32a3234eb)
+
+
+# Sanity Integration for content management.
+
+![Screenshot from 2024-08-12 18-21-29](https://github.com/user-attachments/assets/b81cd357-a4f5-40af-bfb2-1b8a4f400aeb)
+
 
 
 
