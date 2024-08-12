@@ -3,7 +3,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About CodeBlogs
+## About ApplyEase
 
 Developed a comprehensive Placement Management System using Next.js, designed to streamline recruitment processes. The platform features secure user and admin authentication, allowing admins to efficiently manage company profiles and job listings. Users can view and apply for positions, track their applications, and leverage advanced search functionality for effective job discovery. This system enhances recruitment efficiency by providing a seamless and secure experience for both users and administrators.
 
@@ -37,6 +37,25 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot from 2024-08-12 22-17-04](https://github.com/user-attachments/assets/84dea9bb-d615-4132-b0b2-c394d90d6c27)
 
+### Add An Company Interveiw Experience.
+
+![Screenshot from 2024-08-12 22-35-19](https://github.com/user-attachments/assets/48ab5ee7-8cdb-4405-b61a-7ba4557a938f)
+
+<p align="center">--- <strong>END</strong> ---</p>
+
+![Screenshot from 2024-08-12 22-35-15](https://github.com/user-attachments/assets/5632d17b-65db-47e8-814d-bf5b012064ab)
+
+### View All Experience Related To Company.
+
+![Screenshot from 2024-08-12 22-35-27](https://github.com/user-attachments/assets/a4cde086-e1e1-4adb-8798-b32e260ce5cd)
+
+<p align="center">--- <strong>END</strong> ---</p>
+
+![Screenshot from 2024-08-12 22-35-32](https://github.com/user-attachments/assets/2fd6f9fe-49fe-404f-8b90-a0c37f39c290)
+
+<p align="center">--- <strong>END</strong> ---</p>
+
+![Screenshot from 2024-08-12 22-35-35](https://github.com/user-attachments/assets/a9894d57-1f73-4cd5-9362-833d73765720)
 
 
 ### Add a Comapny Details Page.
@@ -60,7 +79,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <p align="center">--- <strong>END</strong> ---</p>
 
 ![Screenshot from 2024-08-12 22-17-27](https://github.com/user-attachments/assets/1ef41b92-787c-4565-a368-c62ca8a3128b)
-
 
 
 ### User Profile Page.
