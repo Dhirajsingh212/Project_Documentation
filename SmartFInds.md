@@ -11,17 +11,18 @@ Developed a robust e-commerce platform utilizing the MERN stack (TypeScript) wit
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![React][React.js]][React-url]
-* [![TypeScript][TypeScript]][TypeScript-url]
-* [![Node.js][Node.js]][Node-url]
-* [![Express.js][Express.js]][Express-url]
-* [![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
-* [![MongoDB][MongoDB]][MongoDB-url]
-* [![Recoil][Recoil.js]][Recoil-url]
-* [![Prisma][Prisma]][Prisma-url]
-* [![Zod][Zod]][Zod-url]
-* [![Sanity CMS][SanityCMS]][SanityCMS-url]
-* [![Stripe][Stripe]][Stripe-url]
+[![React][React.js]][React-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+[![Node.js][Node.js]][Node-url]
+[![Express.js][Express.js]][Express-url]
+[![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
+[![MongoDB][MongoDB]][MongoDB-url]
+[![Recoil][Recoil.js]][Recoil-url]
+[![Zod](https://img.shields.io/badge/Zod-3C7EBB?style=for-the-badge&logo=typescript&logoColor=white)](https://zod.dev/)
+[![Prisma][Prisma]][Prisma-url]
+[![Zod][Zod]][Zod-url]
+[![Sanity CMS][SanityCMS]][SanityCMS-url]
+[![Stripe][Stripe]][Stripe-url]
 
 
 # Website View
