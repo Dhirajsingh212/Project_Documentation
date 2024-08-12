@@ -38,11 +38,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot from 2024-08-12 17-50-37](https://github.com/user-attachments/assets/9b4b04af-5ea1-41ca-9962-65b0c6748e55)
 
+<p align="center">--- <strong>END</strong> ---</p>
+
 ![Screenshot from 2024-08-12 17-50-48](https://github.com/user-attachments/assets/8f4104db-449c-4e3c-84d3-18e4c7cd9f13)
 
 ### Single Product Page.
 
 ![Screenshot from 2024-08-12 17-50-54](https://github.com/user-attachments/assets/42cd57c0-9684-4adc-887c-45dd7d2f1df1)
+
+<p align="center">--- <strong>END</strong> ---</p>
 
 ![Screenshot from 2024-08-12 17-50-59](https://github.com/user-attachments/assets/14b4a332-fd7d-4c69-9085-cc81bd405a23)
 
@@ -55,6 +59,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot from 2024-08-12 17-51-11](https://github.com/user-attachments/assets/57522ec5-846a-4727-bb1a-fbd347a3e7ed)
 
+<p align="center">--- <strong>END</strong> ---</p>
+
 ![Screenshot from 2024-08-12 17-51-15](https://github.com/user-attachments/assets/6e7b770d-488c-4d61-a20a-2794dc9555eb)
 
 ### Cart Page.
@@ -64,8 +70,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ### Checkout process.
 
 ![Screenshot from 2024-08-12 17-52-03](https://github.com/user-attachments/assets/802959a2-0438-45d6-866a-64f456a2ff11)
+<p align="center">--- <strong>END</strong> ---</p>
 
 ![Screenshot from 2024-08-12 17-51-37](https://github.com/user-attachments/assets/dfdd92c6-1e2c-4989-bd6f-6d3c9056115d)
+<p align="center">--- <strong>END</strong> ---</p>
 
 ![Screenshot from 2024-08-12 17-51-32](https://github.com/user-attachments/assets/cf8fc435-b353-43b1-bb19-82899183baeb)
 
@@ -91,14 +99,14 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ![Screenshot from 2024-08-12 18-24-54](https://github.com/user-attachments/assets/2ade8ba2-e0d6-415e-8946-6c3506946ee7)
 
+<p align="center">--- <strong>END</strong> ---</p>
+
 ![Screenshot from 2024-08-12 18-24-51](https://github.com/user-attachments/assets/12a5b58b-0d30-4cb8-a44e-a7f32a3234eb)
 
 
 # Sanity Integration for content management.
 
-![Screenshot from 2024-08-12 18-21-29](https://github.com/user-attachments/assets/b81cd357-a4f5-40af-bfb2-1b8a4f400aeb)
-
-
+![Screenshot from 2024-08-12 18-28-59](https://github.com/user-attachments/assets/4809dc49-d7d4-4623-92ab-f0d5357882e8)
 
 
 <!-- Badges -->
