@@ -15,6 +15,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![TypeScript][TypeScript]][TypeScript-url]
 * [![Node.js][Node.js]][Node-url]
 * [![Express.js][Express.js]][Express-url]
+* [![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=json&logoColor=white)](https://jwt.io/)
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Recoil][Recoil.js]][Recoil-url]
 * [![Prisma][Prisma]][Prisma-url]
