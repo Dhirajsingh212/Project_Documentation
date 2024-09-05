@@ -9,8 +9,6 @@ Developed a robust e-commerce platform utilizing the MERN stack (TypeScript) wit
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 [![React][React.js]][React-url]
 [![TypeScript][TypeScript]][TypeScript-url]
 [![Node.js][Node.js]][Node-url]
@@ -21,6 +19,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [![Zod](https://img.shields.io/badge/Zod-3C7EBB?style=for-the-badge&logo=typescript&logoColor=white)](https://zod.dev/)
 [![Prisma][Prisma]][Prisma-url]
 [![Zod][Zod]][Zod-url]
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Sanity CMS][SanityCMS]][SanityCMS-url]
 [![Stripe][Stripe]][Stripe-url]
 
