@@ -25,6 +25,13 @@ Developed a robust e-commerce platform utilizing the MERN stack (TypeScript) wit
 
 
 # Website View
+
+
+
+https://github.com/user-attachments/assets/17301f39-6275-4edf-8f15-00001d0eb6f9
+
+
+
 ### Login Page.
 * User can login by providing their credentials (username and password).
 
