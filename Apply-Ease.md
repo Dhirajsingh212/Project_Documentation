@@ -19,10 +19,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 # Website View
 
-
-https://github.com/user-attachments/assets/099ce4dd-e4f6-4ebc-a27b-38568082ca5c
-
-
 ### Login Page.
 * User can login by providing their credentials (email and password).
 
