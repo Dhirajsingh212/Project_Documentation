@@ -18,6 +18,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 # Website View
+
+
+https://github.com/user-attachments/assets/099ce4dd-e4f6-4ebc-a27b-38568082ca5c
+
+
 ### Login Page.
 * User can login by providing their credentials (email and password).
 
@@ -93,6 +98,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ### Search a Company Page.
 
 ![Screenshot from 2024-08-12 22-19-13](https://github.com/user-attachments/assets/9c3e51ac-3546-4a46-af4f-ddc2ad1012c0)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
